@@ -1,0 +1,17 @@
+{
+  "name": "bitcore-node-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bitcore-lib": "^0.14.0",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Ishida",
+  "license": "MIT"
+}
