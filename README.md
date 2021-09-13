@@ -2,6 +2,9 @@
 The nodejs Library to make bitcoins transactions using blockexplorer api
 
 
+DEPRECATED
+Blockexplorer api no longer works!
+
 Install
 
 
